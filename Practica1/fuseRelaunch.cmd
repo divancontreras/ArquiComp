@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Practica1/RAM_TEST_isim_beh.exe" -prj "/home/ise/Practica1/RAM_TEST_beh.prj" "work.RAM_TEST" 

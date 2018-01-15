@@ -1,0 +1,23 @@
+Running: /opt/Xilinx/14.7/ISE_DS/ISE/bin/lin64/unwrapped/fuse -relaunch -intstyle "ise" -incremental -lib "secureip" -o "/home/ise/Practica1/RAM_TEST_isim_beh.exe" -prj "/home/ise/Practica1/RAM_TEST_beh.prj" "work.RAM_TEST" 
+ISim P.20160913 (signature 0xfbc00daa)
+Number of CPUs detected in this system: 1
+Turning on mult-threading, number of parallel sub-compilation jobs: 0 
+Determining compilation order of HDL files
+Parsing VHDL file "/home/ise/Practica1/RAM.vhd" into library work
+Parsing VHDL file "/home/ise/Practica1/RAM_TEST.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Fuse Memory Usage: 112864 KB
+Fuse CPU Usage: 1470 ms
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package vcomponents
+Compiling architecture behavioral of entity RAM [ram_default]
+Compiling architecture behavior of entity ram_test
+Time Resolution for simulation is 1ps.
+Compiled 7 VHDL Units
+Built simulation executable /home/ise/Practica1/RAM_TEST_isim_beh.exe
+Fuse Memory Usage: 128228 KB
+Fuse CPU Usage: 1570 ms
+GCC CPU Usage: 160 ms

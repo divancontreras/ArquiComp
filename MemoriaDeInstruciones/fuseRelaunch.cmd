@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/ise/MemoriaDeInstruciones/MemoriaDeDatosTestBench_isim_beh.exe" -prj "/home/ise/MemoriaDeInstruciones/MemoriaDeDatosTestBench_beh.prj" "work.MemoriaDeDatosTestBench" 
